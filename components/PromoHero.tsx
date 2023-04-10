@@ -7,7 +7,7 @@ export default function PromoHero() {
             <h1 className="font text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
               Digital Twin Tech
               <br />
-              Marketplace 
+              Marketplace
             </h1>
             <p className="mt-4 text-xl text-gray-500">
               Buy and Sell your NFTs
