@@ -1,3 +1,6 @@
+import Link from "next/link";
+
+
 export default function PromoHero() {
   return (
     <div className="relative overflow-hidden bg-white">
@@ -80,11 +83,13 @@ export default function PromoHero() {
                 </div>
               </div> */}
 
-              <a href="/user">
-                <span className="inline-block rounded-md border border-transparent bg-indigo-600 py-3 px-8 text-center font-medium text-white hover:bg-indigo-700">
-                  LIST NFTs
-                </span>
-              </a>
+              <Link href="/user">
+                
+                  <span className="inline-block rounded-md border border-transparent bg-indigo-600 py-3 px-8 text-center font-medium text-white hover:bg-indigo-700">
+                    LIST NFTs
+                  </span>
+                
+              </Link>
               <a href="https://digitaltwintech.com.br">
                 <span className="inline-block rounded-md border border-transparent bg-indigo-600 py-3 px-8 text-center font-medium text-white hover:bg-indigo-700 ml-4">
                   MINT NFTs
