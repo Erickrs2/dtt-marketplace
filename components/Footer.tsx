@@ -11,26 +11,26 @@ export default function Footer() {
                 alt="Logo"
               />
               <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-                Mesh SDK
+                Powered by Mesh SDK
               </span>
             </a>
           </div>
           <div className="grid grid-cols-1 gap-8 text-gray-900 dark:text-white">
             <div>
               <h2 className="mt-6 text-sm font-semibold uppercase">
-                Powered by Mesh
+                WEb3
               </h2>
-              <p>This starter kit is developerd by Mesh SDK team.</p>
+              <p>Blockchain technology</p>
 
               <h2 className="mt-6 text-sm font-semibold uppercase">
-                Theme by Tailwind CSS
+                Digital Twin Tech
               </h2>
-              <p>The layout are designed are by Tailwind CSS.</p>
+              <p>www.digitaltwintech.com.br</p>
 
               <h2 className="mt-6 text-sm font-semibold uppercase">
-                Images by QWSTION
+                Marketplace fee
               </h2>
-              <p>The images are provided by QWSTION and Ugmonk.</p>
+              <p>2.5%</p>
             </div>
           </div>
         </div>
