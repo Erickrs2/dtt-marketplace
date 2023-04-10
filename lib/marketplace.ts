@@ -11,7 +11,7 @@ export function getMarketplace(wallet) {
     signer: wallet,
     submitter: blockchainProvider,
     percentage: 25000, // 2.5%
-    owner: "addr_test1vpvx0sacufuypa2k4sngk7q40zc5c4npl337uusdh64kv0c7e4cxr",
+    owner: "addr_test1qq4zxgdv2fltjza6869p5d0jhuqzc8azqr6p3frqx5st8dfregd0esfmxm4jc7h5gyqepjvphehgefp85vynz750xffqga2jg0",
   });
 
   return marketplace;
