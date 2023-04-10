@@ -1,7 +1,7 @@
 export default function PromoHero() {
   return (
     <div className="relative overflow-hidden bg-white">
-      <div className="pt-16 pb-0 sm:pt-24 sm:pb-0 lg:pt-40 lg:pb-0">
+      <div className="mt-10 pt-16 pb-0 sm:pt-24 sm:pb-0 lg:pt-40 lg:pb-0">
         <div className="relative mx-auto max-w-7xl px-4 sm:static sm:px-6 lg:px-8">
           <div className="sm:max-w-lg">
             <h1 className="font text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
@@ -14,7 +14,7 @@ export default function PromoHero() {
             </p>
           </div>
           <div>
-            <div className="mt-10">
+            <div className="mt-10 flex">
               {/* <div
                 aria-hidden="true"
                 className="pointer-events-none lg:absolute lg:inset-y-0 lg:mx-auto lg:w-full lg:max-w-7xl"
@@ -83,6 +83,11 @@ export default function PromoHero() {
               <a href="/user">
                 <span className="inline-block rounded-md border border-transparent bg-indigo-600 py-3 px-8 text-center font-medium text-white hover:bg-indigo-700">
                   LIST NFTs
+                </span>
+              </a>
+              <a href="https://digitaltwintech.com.br">
+                <span className="inline-block rounded-md border border-transparent bg-indigo-600 py-3 px-8 text-center font-medium text-white hover:bg-indigo-700 ml-4">
+                  MINT NFTs
                 </span>
               </a>
             </div>

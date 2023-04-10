@@ -14,23 +14,25 @@ export default function Footer() {
                 Powered by Mesh SDK
               </span>
             </a>
+            
           </div>
           <div className="grid grid-cols-1 gap-8 text-gray-900 dark:text-white">
             <div>
-              <h2 className="mt-6 text-sm font-semibold uppercase">
-                WEb3
+              <h2 className="mt-0 text-sm font-semibold uppercase underline">
+                PROJECTS
               </h2>
-              <p>Blockchain technology</p>
+              
+              <h2 className="mt-6 text-sm font-semibold uppercase">
+                1. Digital Twin Tech:
+              </h2>
+              <a href="https://digitaltwintech.com.br">www.digitaltwintech.com.br</a>
+              <p>Policy ID: xxyyzzddddffdfdgfhfhdhdhdhdfhdfhdhhdhdhhf</p>
 
               <h2 className="mt-6 text-sm font-semibold uppercase">
-                Digital Twin Tech
+                2. Intitech:
               </h2>
-              <p>www.digitaltwintech.com.br</p>
-
-              <h2 className="mt-6 text-sm font-semibold uppercase">
-                Marketplace fee
-              </h2>
-              <p>2.5%</p>
+              <a href="https://intitech.com.br">www.intitech.com.br</a>
+              <p>Policy ID: xxyyzzddddffdfdgfhfhdhdhdhdfhdfhdhhdhdhhf</p>
             </div>
           </div>
         </div>

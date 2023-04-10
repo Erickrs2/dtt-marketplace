@@ -31,7 +31,7 @@ export default function HomeListings() {
         setShowModalItem={setShowModalItem}
       />
       <div className="bg-white">
-        <div className="mx-auto max-w-2xl py-0 px-4 sm:py-0 sm:px-6 lg:max-w-7xl lg:px-8">
+        <div className="mx-auto max-w-2xl py-5 px-4 sm:py-5 sm:px-6 lg:max-w-7xl lg:px-8">
           <Search
             loading={loading}
             setLoading={setLoading}
