@@ -80,9 +80,9 @@ export default function PromoHero() {
                 </div>
               </div> */}
 
-              <a href="https://digitaltwintech.com.br">
+              <a href="/user">
                 <span className="inline-block rounded-md border border-transparent bg-indigo-600 py-3 px-8 text-center font-medium text-white hover:bg-indigo-700">
-                  MINT NFTs
+                  LIST NFTs
                 </span>
               </a>
             </div>
